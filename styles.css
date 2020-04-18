@@ -1,5 +1,16 @@
 h1 {
   text-align: center;
-  font: Book Antiqua;
   padding-top: 25px;
 }
+p {
+  padding: 10px;
+  text-align: center;
+}
+ div {
+   padding: 30px;
+   text-align: center;
+ }
+
+.atoll1 {
+  content:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Foceans.taraexpeditions.org%2Fen%2Fjdb%2Fnaufrage-volontaire-sur-ducie-island%2F&psig=AOvVaw1EYpca4h4WAcoIOJeYa3Bt&ust=1587323170705000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDh2ujV8ugCFQAAAAAdAAAAABAJ") alt = Ducie Island Atoll;
+ }
