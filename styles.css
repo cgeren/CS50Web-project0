@@ -15,7 +15,7 @@ p {
  }
 
  a {
-   color: #0000A0;
+   color: #000000;
  }
 
  a:visited {
@@ -39,6 +39,14 @@ ul {
 {
   img[src = "https://www.visitpitcairn.pn/media/gallery/files/slide_image_32.jpg"] {
     width: 575px;
+    height: 385px;
+  }
+}
+
+@media (min-width: 1000px)
+{
+  img[src = "https://www.tourist-destinations.net/wp-content/uploads/2013/07/kure_atoll.jpg"] {
+    width: 500px;
     height: 385px;
   }
 }
