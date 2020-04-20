@@ -14,8 +14,8 @@ p {
    text-align: center;
  }
 
- a {
-   color: #000000;
+ a:link {
+   color: #0000A0;
  }
 
  a:visited {
@@ -35,19 +35,16 @@ ul {
   padding: 10px;
 }
 
+
 @media (min-width: 1150px)
 {
   img[src = "https://www.visitpitcairn.pn/media/gallery/files/slide_image_32.jpg"] {
     width: 575px;
     height: 385px;
   }
-}
-
-@media (min-width: 1000px)
-{
-  img[src = "https://www.tourist-destinations.net/wp-content/uploads/2013/07/kure_atoll.jpg"] {
-    width: 500px;
-    height: 385px;
+  img[src = "https://cdn.cnn.com/cnnnext/dam/assets/160107135223-5--micronesia--nukuoro-atoll---snorkelling-with-batfish-full-169.jpg"] {
+    width: 575px;
+    height: 325px;
   }
 }
 
@@ -60,5 +57,17 @@ ul {
     top: 0;
     bottom: 0;
     border: 1px solid black;
+  }
+  img[src = "https://www.tourist-destinations.net/wp-content/uploads/2013/07/kure_atoll.jpg"] {
+    width: 500px;
+    height: 385px;
+  }
+  img[src = "https://www.dive-the-world.com/images-webp/gallery/pages/medium/7a17766778-osprey-undersea-explorer-diverssharks-high-res.jpg"] {
+    width: 500px;
+    height: 375px;
+  }
+  img[src = "https://image.cnbcfm.com/api/v1/image/106260551-1574422871204gettyimages-182490375.jpeg?v=1574422923"] {
+    width: 500px;
+    height: 335px;
   }
 }
