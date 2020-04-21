@@ -35,6 +35,18 @@ ul {
   padding: 10px;
 }
 
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table#table1{
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 35px;
+}
+
 
 @media (min-width: 1150px)
 {
