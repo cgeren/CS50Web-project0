@@ -1,0 +1,10 @@
+$link-color: #0000A0;
+$visited-color: #000000;
+
+a {
+  &:link {
+    color: $link-color; }
+
+  &:visited {
+    color: $link-color; }
+}
